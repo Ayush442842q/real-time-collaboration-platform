@@ -1,0 +1,7 @@
+fastapi==0.92.0
+pydantic==1.10.2
+python-dotenv==0.21.0
+pyjwt==2.4.0
+gunicorn==20.1.0
+sqlite3==3.39.0 
+# NOTE: SQLite is part of Python's standard library, so it does not need to be installed separately. However, for clarity, the version is provided here.
